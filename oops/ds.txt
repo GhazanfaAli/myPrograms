@@ -1,0 +1,39 @@
+abstraction and interfaces
+1. both need classes
+2. we can't create object both of them
+3. we can create reference var for both them
+
+differences
+Abstract class
+
+
+1) Abstract class can have abstract and non-abstract methods.
+
+2) Abstract class doesn't support multiple inheritance.
+
+Abstract class can have final, non-final, static and non-static variables.
+
+4) Abstract class can provide the implementation of interface.
+
+ The abstract keyword is used to declare abstract class.
+
+7) An abstract class can be extended using keyword "extends".
+
+8) A Java abstract class can have class members like private, protected, etc.
+
+Interface
+
+
+Interface can have only abstract methods
+
+Interface supports multiple inheritance.
+
+Interface has only static and final variables.
+
+Interface can't provide the implementation of abstract class.
+
+The interface keyword is used to declare interface.
+
+An interface can be implemented using keyword "implements".
+
+All the fields in interfaces are public, static and final by default

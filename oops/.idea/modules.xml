@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Access_specifier/Access_specifier.iml" filepath="$PROJECT_DIR$/Access_specifier/Access_specifier.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FinalKeyWord/FinalKeyWord.iml" filepath="$PROJECT_DIR$/FinalKeyWord/FinalKeyWord.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inilization_block/Inilization_block.iml" filepath="$PROJECT_DIR$/Inilization_block/Inilization_block.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InstanceOf/InstanceOf.iml" filepath="$PROJECT_DIR$/InstanceOf/InstanceOf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MainClass_1/MainClass_1.iml" filepath="$PROJECT_DIR$/MainClass_1/MainClass_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Packages/Packages.iml" filepath="$PROJECT_DIR$/Packages/Packages.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Super_keyword/Super_keyword.iml" filepath="$PROJECT_DIR$/Super_keyword/Super_keyword.iml" />
+      <module fileurl="file://$PROJECT_DIR$/abstraction/abstraction.iml" filepath="$PROJECT_DIR$/abstraction/abstraction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aggregation/aggregation.iml" filepath="$PROJECT_DIR$/aggregation/aggregation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/enscapsulation/enscapsulation.iml" filepath="$PROJECT_DIR$/enscapsulation/enscapsulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inheritance/inheritance.iml" filepath="$PROJECT_DIR$/inheritance/inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interfaces/interfaces.iml" filepath="$PROJECT_DIR$/interfaces/interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oops.iml" filepath="$PROJECT_DIR$/oops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/polymorphism/polymorphism.iml" filepath="$PROJECT_DIR$/polymorphism/polymorphism.iml" />
+    </modules>
+  </component>
+</project>
